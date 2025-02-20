@@ -9,11 +9,11 @@ Features
 ✅ Real-time image prediction using a trained model
 ✅ Performance evaluation with accuracy, confusion matrix, and loss curves
 
-Technologies Used
+Technologies Used: 
 Python 🐍
 TensorFlow/Keras 🧠
 OpenCV 📷
 NumPy & Pandas 📊
-Matplotlib & Seaborn 📉
+Matplotlib 📉
 Dataset
 The model is trained on Sad and Happy image Dataset, which contains Two image categories. Images are preprocessed using resizing, normalization, and augmentation techniques to improve generalization.
